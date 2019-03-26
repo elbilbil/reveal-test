@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-metismenu": "^1.4.0",
+    "react-metismenu-router-link": "^2.1.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "style-loader": "^0.23.1",
+    "typescript": "^3.3.4000"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +26,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {}
 }
